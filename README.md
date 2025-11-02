@@ -18,4 +18,4 @@ Includes mutation data mapped onto the aligned protein domains.
 
 ### 05_benchmark 
 
-The dataset containing mutations and labels. 
+The comprehensive experimental benchmark of cancer driver and neutral mutations. 
