@@ -15,3 +15,7 @@ Contains multiple sequence alignments (MSAs) of protein domains.
 ### 04_mapped_mutations:
 
 Includes mutation data mapped onto the aligned protein domains.
+
+### 05_benchmark 
+
+The dataset containing mutations and labels. 
