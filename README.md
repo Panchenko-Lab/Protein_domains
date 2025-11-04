@@ -6,7 +6,7 @@ Full-length protein sequences of human proteins which were retrieved from the Co
 
 ### 02_assigned_domains:
 
-This directory contains files related to the identification and annotation of protein domains.
+This file contains identified and annotated protein domains. 
 Human protein domain profiles were obtained from the Pfam database (version 37.0), downloaded via the Pfam FTP service. To assign domains to the protein sequences, the HMMER tool (hmmsearch, version 3.4) was used to scan the sequences against the Pfam hidden Markov models (HMMs). Domain boundaries were annotated based on hits passing a stringent E-value cutoff ≤ 1 × 10⁻⁸.
 
 
